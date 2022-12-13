@@ -1,6 +1,6 @@
 <?php
 // Including the configuration
-require 'dbConfig.php';
+require 'config.php';
  
 // Filter events by calendar date 
 $where_sql = ''; 
